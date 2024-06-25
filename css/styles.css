@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body{
+     it's a better option use percentages instead of wh  
+    
+    width: 100%;
+    background-color: aqua;
+
+} */
+body {
+    min-height: 100vh;
+}
+
+h1 {
+    border: 2px dashed red;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+}
+
+main {
+    font-size: 2rem;
+    width: 50%;
+}
+
+p {
+    font-size: 3rem;
+    width: 40ch;
+}
